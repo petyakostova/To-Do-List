@@ -1,7 +1,16 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Flip Move Installation
-npm i -S react-flip-move
+## Useful Commands
+
+Used commands for creating react app:
+
+### `npm install -g create-react-app`
+
+### `create-react-app todolist`
+
+Flip Move Installation:
+
+### `npm i -S react-flip-move`
 
 ## Available Scripts
 
